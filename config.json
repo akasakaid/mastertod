@@ -1,0 +1,7 @@
+{
+    "auto_task": true,
+    "game_point": {
+        "min": 100,
+        "max": 160
+    }
+}
