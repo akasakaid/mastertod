@@ -1,0 +1,9 @@
+env
+*.log
+*.txt
+!data.txt
+!requirements.txt
+*.json
+!config.json
+*.py
+!bot.py
